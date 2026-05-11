@@ -1,6 +1,6 @@
 # VectorShift — Frontend Technical Assessment Submission
 
-> Submitted by [Shreya Nand](https://github.com/imshreyanand)
+> Submitted by [Shreya Anand](https://github.com/imshreyanand)
 
 A full-stack visual pipeline builder built with **React** and **FastAPI**, completed as part of the VectorShift Frontend Technical Assessment. The app allows users to design, connect, and validate AI workflows through an interactive drag-and-drop canvas.
 
